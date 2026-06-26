@@ -1,0 +1,17 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+R:Cuando diseñas tus propias herramientas con tecnologías abiertas como Node.js, 
+la gran ventaja es que nadie te impone las reglas. No dependes de que una gran 
+corporación te cambie las condiciones de la noche a la mañana, te cobre licencias
+ impagables o decida cerrar el servicio. Tienes el control total, lo que se traduce
+  en soberanía tecnológica real: el software se adapta exactamente a lo que la 
+  comunidad necesita, y no al revés.
+Además, Node.js corre sobre JavaScript, un lenguaje con una curva de aprendizaje 
+amigable y una comunidad global gigantesca. Esto significa que es mucho más fácil
+ encontrar documentación, librerías y soporte sin tener que reinventar la rueda. 
+ Es una tecnología altamente eficiente y ligera, capaz de ofrecer un gran 
+ rendimiento y escalabilidad incluso si se despliega en servidores o hardware 
+ limitado.
+Por último, al ser código abierto, se garantiza la transparencia total. 
+Cualquiera puede auditar el código para verificar cómo se gestionan los datos, 
+lo que blinda la privacidad, mejora la seguridad y asegura que la herramienta 
+sea un bien común, confiable y colaborativo.
